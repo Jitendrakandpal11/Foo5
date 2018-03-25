@@ -11,6 +11,7 @@ namespace SolutionForGitFoo5
         static void Main(string[] args)
         {
             // Code was edited in github
+            // code added in vs
         }
     }
 }
