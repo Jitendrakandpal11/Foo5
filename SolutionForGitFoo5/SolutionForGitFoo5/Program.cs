@@ -14,6 +14,8 @@ namespace SolutionForGitFoo5
             // code added in vs
 
             //Code added for feature 1
+
+            // code to call feature 2
         }
     }
 }
