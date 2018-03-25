@@ -16,6 +16,8 @@ namespace SolutionForGitFoo5
             //Code added for feature 1
 
             // code to call feature 2
+            
+            //code to call feature 3
         }
     }
 }
