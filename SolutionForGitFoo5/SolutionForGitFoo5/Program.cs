@@ -12,6 +12,8 @@ namespace SolutionForGitFoo5
         {
             // Code was edited in github
             // code added in vs
+
+            //Code added for feature 1
         }
     }
 }
